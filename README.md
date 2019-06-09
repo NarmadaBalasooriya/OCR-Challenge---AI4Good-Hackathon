@@ -1,4 +1,12 @@
-# CNN_LSTM_CTC_Tensorflow
+# DATA
+https://github.com/Charitable-Analytics-International/AI4Good---Meza-OCR-Challenge.git
+
+#APPROACH
+
+We used the CNN_LSTM_CTC based OCR for the challenge.
+https://github.com/watsonyanghx/CNN_LSTM_CTC_Tensorflow.git
+
+##CNN_LSTM_CTC_Tensorflow
 
 CNN+LSTM+CTC based OCR(Optical Character Recognition) implemented using tensorflow. 
 
